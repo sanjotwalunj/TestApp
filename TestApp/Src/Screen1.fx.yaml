@@ -7,3 +7,15 @@ Screen1 As screen:
         Width: =1366
         ZIndex: =1
 
+    Button1 As button:
+        Text: ="Button"
+        X: =603
+        Y: =375
+        ZIndex: =2
+
+    Icon1 As icon.Cancel:
+        Icon: =Icon.Cancel
+        X: =630
+        Y: =179
+        ZIndex: =3
+
